@@ -1,0 +1,44 @@
+
+Datum: 20.10.2008  Uhrzeit: 11:15:49
+Übersetzen:
+test\SIMATIC 300(1)\Hardware
+-> Übersetzen des Objektes wurde fehlerfrei ausgeführt
+
+
+Datum: 20.10.2008  Uhrzeit: 11:15:51
+Übersetzen:
+test\SIMATIC 300(1)\IM151-8 PN/DP CPU\S7-Programm(2)\Bausteine
+-> Übersetzen des Objektes wurde fehlerfrei ausgeführt
+
+
+Datum: 20.10.2008  Uhrzeit: 11:15:55
+Übersetzen:
+test\SIMATIC 300(1)\IM151-8 PN/DP CPU\Verbindungen
+-> Übersetzen des Objektes wurde fehlerfrei ausgeführt
+
+
+Datum: 20.10.2008  Uhrzeit: 11:15:58
+Laden:
+test\SIMATIC 300(1)\Hardware
+-> Beim Laden des Objektes ist ein Fehler aufgetreten
+
+Die Baugruppe IM151-8 PN/DP CPU kann über die eingestellte Online Schnittstelle nicht erreicht werden.
+Verbindung zur Baugruppe IM151-8 PN/DP CPU (R0/S2) in der Station SIMATIC 300(1) konnte nicht aufgebaut werden.
+
+
+Datum: 20.10.2008  Uhrzeit: 11:15:59
+Laden:
+test\SIMATIC 300(1)\IM151-8 PN/DP CPU\S7-Programm(2)\Bausteine
+-> Beim Laden des Objektes ist ein Fehler aufgetreten
+
+Fehler: Eine Verbindung zwischen Ihrem PC / PG und dem Automatisierungsgerät kann nicht hergestellt werden.
+
+
+Datum: 20.10.2008  Uhrzeit: 11:16:01
+Laden:
+test\SIMATIC 300(1)\IM151-8 PN/DP CPU\Verbindungen
+-> Laden des Objektes wurde ausgeführt (mit Warnungen)
+
+Die Baugruppe IM151-8 PN/DP CPU kann über die eingestellte Online Schnittstelle nicht erreicht werden.
+Verbindung zur Baugruppe IM151-8 PN/DP CPU (R0/S2) in der Station SIMATIC 300(1) konnte nicht aufgebaut werden.
+

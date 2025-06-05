@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="SCL_V13_SP1_1" typeText="Typ" messageText="Meldung" timeText="Zeit">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="13.05.2016 10:28:40">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Hochrüsten gestartet" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="13.05.2016 10:28:40">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Projekt-/Bibliotheksinformation der Vorgänger-Version wird gelesen." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="13.05.2016 10:28:50">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Neues Projekt/Neue Bibliothek wird aktualisiert." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="13.05.2016 10:28:54">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Neues Projekt/Neue Bibliothek wird aktualisiert." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="13.05.2016 10:29:00" Debug="false">
+    <Text>Die Konvertierung des S7-Programms für CPU "PLC_1" wird vorbereitet.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="13.05.2016 10:29:01" Debug="false">
+    <Text>Konvertierung beendet.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="13.05.2016 10:29:18" Debug="false">
+    <Text>Das S7-Programm wird für CPU "PLC_1" konvertiert.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="13.05.2016 10:29:29" Debug="false">
+    <Text>Konvertierung beendet.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="13.05.2016 10:29:35">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Neues Projekt/Neue Bibliothek wird aktualisiert." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="13.05.2016 10:29:35">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Hochgerüstetes Projekt/Hochgerüstete Bibliothek wird gespeichert." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectSucceeded" MessageClass="Success" Timestamp="13.05.2016 10:29:35">
+    <Number ServiceNumber="80" MessageNumber="34" />
+    <Text FeedbackText="Projekt 'SCL' wurde erfolgreich hochgerüstet und gespeichert als Projekt 'SCL_V13_SP1_1'." />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+</LogFile>
